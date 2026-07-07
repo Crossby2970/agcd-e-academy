@@ -1,0 +1,157 @@
+const curriculum = [
+  {
+    part: 1,
+    title: "Course Orientation and NPO Institutional Readiness",
+    description: "Getting oriented, and assessing where your organisation stands today.",
+    modules: [
+      "Programme Orientation and Learning Journey",
+      "NPO Institutional Readiness Checklist",
+      "Understanding the NPO Ecosystem in South Africa",
+      "Setting Your Learning and Action Goals",
+    ],
+  },
+  {
+    part: 2,
+    title: "Legislative, Registration and Compliance Framework",
+    description: "The legal foundations every NPO, NPC, PBO, FBO and CBO needs in place.",
+    modules: [
+      "Legislative Framework for NPOs, NPCs, PBOs, FBOs and CBOs",
+      "NPO / NPC / PBO Registration Pathways",
+      "Legal Structure Profile Development",
+      "Compliance Calendar and Filing Obligations",
+      "Building Your Compliance File Index",
+    ],
+  },
+  {
+    part: 3,
+    title: "Governance and Board Effectiveness",
+    description: "Board fiduciary duty, ethics and effective governance practice.",
+    modules: [
+      "Governance Principles and Board Roles",
+      "Board Fiduciary Duties and Ethics",
+      "Governance Self-Assessment",
+      "Board Roles Matrix and Delegation",
+      "Conflict of Interest Management",
+      "Board Meeting Effectiveness and Action Tracking",
+    ],
+  },
+  {
+    part: 4,
+    title: "Strategy, Organizational Development and Sustainability",
+    description: "Strategic priorities, organisational growth and long-term sustainability.",
+    modules: [
+      "Strategic Planning Fundamentals for NPOs",
+      "Strategic Priorities and Resource Alignment",
+      "Organisational Development Planning",
+      "Sustainability and Diversification Strategy",
+      "Building Your Sustainability Action Plan",
+    ],
+  },
+  {
+    part: 5,
+    title: "Policy, Guidelines and SOP Development",
+    description: "Turning good intentions into written policies your board can adopt.",
+    modules: [
+      "Policy Development Principles",
+      "Core NPO Policy Register (HR, Finance, Conflict of Interest)",
+      "Standard Operating Procedure (SOP) Design",
+      "Adapting Policies for Board Adoption",
+    ],
+  },
+  {
+    part: 6,
+    title: "Service Delivery and Beneficiary Management",
+    description: "Designing services and systems that put beneficiaries first.",
+    modules: [
+      "Understanding Your Beneficiaries and Communities",
+      "Building a Beneficiary Profile and Consent Systems",
+      "Designing a Service Delivery Model",
+      "Service Charters and Complaints Handling",
+    ],
+  },
+  {
+    part: 7,
+    title: "Programme Design, Theory of Change and M&E",
+    description: "Designing programmes you can measure, evidence and report on.",
+    modules: [
+      "Programme Design and SMART Objectives",
+      "Introduction to Theory of Change",
+      "Designing a MEAL Plan",
+      "Building an Indicator Matrix",
+      "Evidence Collection and Reporting",
+    ],
+  },
+  {
+    part: 8,
+    title: "Finance, SCM and Internal Controls",
+    description: "Financial management, procurement and audit-ready controls.",
+    modules: [
+      "Financial Management Foundations for NPOs",
+      "Budgeting and Cash Flow Forecasting",
+      "Supply Chain and Procurement Basics",
+      "Internal Controls and Segregation of Duties",
+      "Audit Readiness and Documentation",
+      "Introduction to AFS, GRAP and GAAP Basics",
+    ],
+  },
+  {
+    part: 9,
+    title: "Fundraising and Resource Mobilization",
+    description: "Donor mapping, proposal writing and diversifying income.",
+    modules: [
+      "Fundraising Strategy and Donor Mapping",
+      "Writing a Fundable Concept Note",
+      "Proposal and Budget Development",
+      "Diversifying Income Streams",
+      "Reporting Back to Donors and Sponsors",
+    ],
+  },
+  {
+    part: 10,
+    title: "Human Capital, Training and PMDS",
+    description: "People systems — from job descriptions to performance management.",
+    modules: [
+      "Human Resource Management Essentials",
+      "Job Descriptions and Volunteer Agreements",
+      "Training Needs Assessment and PMDS",
+      "Building a Learning Culture in Your NPO",
+    ],
+  },
+  {
+    part: 11,
+    title: "Operations, Digital Transformation, AI and IoT",
+    description: "Modernising records, data protection and everyday digital tools.",
+    modules: [
+      "Digital Transformation for NPOs",
+      "Digital Folder Structures and Data Inventory",
+      "Cybersecurity Awareness and Data Protection",
+      "Introduction to AI Tools for NPO Work",
+      "Exploring IoT and Emerging Technology for Service Delivery",
+    ],
+  },
+  {
+    part: 12,
+    title: "Quality, Participation and Accountability",
+    description: "Building quality, participation and stakeholder accountability into daily work.",
+    modules: [
+      "Quality Management Principles",
+      "Participation and Accountability Systems",
+      "Stakeholder Mapping and Engagement",
+      "Continuous Improvement Practices",
+    ],
+  },
+  {
+    part: 13,
+    title: "Risk, Safeguarding, Assets, Events and Capstone",
+    description: "Managing risk and safeguarding, then bringing it all together in your capstone.",
+    modules: [
+      "Risk Management and the Risk Register",
+      "Safeguarding Policy and Practice",
+      "Asset Register and Management",
+      "Event and Activity Risk Planning",
+      "Capstone: Building Your NPO Institutional Strengthening Action Plan",
+    ],
+  },
+];
+
+export default curriculum;
